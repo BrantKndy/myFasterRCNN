@@ -1,2 +1,2 @@
 # myFasterRCNN
-FastRCNN with ResNet by torch
+FastRCNN with ResNet by Pytorch
